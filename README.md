@@ -17,7 +17,7 @@ An interactive dashboard was developed to help users explore the results and com
 
 ### Analysis Findings
 
-![Chi Shopping Mart Findings](Dashboard%20Finding.png)
+![Chi Shopping Mart Findings](Dashboard%20Findings.png)
 
 Tools Used
 
