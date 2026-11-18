@@ -5,6 +5,9 @@ Project Overview
 This project examines the sales performance of Chi Shopping Mart using Microsoft Excel. The analysis focuses on revenue, gross profit, product performance, branch performance, customer types and payment methods.
 
 An interactive dashboard was developed to help users explore the results and compare business performance using different filters.
+## Dashboard Preview
+
+![Chi Shopping Mart Dashboard](Dashboard.png)
 
 Tools Used
 
