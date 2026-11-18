@@ -9,6 +9,16 @@ An interactive dashboard was developed to help users explore the results and com
 
 ![Chi Shopping Mart Dashboard](Dashboard.png)
 
+### Additional Dashboard Views
+
+![Dashboard View 2](Dashboard2.png)
+
+![Dashboard View 3](Dashboard3.png)
+
+### Analysis Findings
+
+![Chi Shopping Mart Findings](Dashboard%20Finding.png)
+
 Tools Used
 
 - Microsoft Excel 2016
